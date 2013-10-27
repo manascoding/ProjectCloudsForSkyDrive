@@ -1,0 +1,12 @@
+{
+	"id": "com.manascoding.pclouds",
+	"version": "1.0.4",
+	"vendor": "Manas Coding",
+	"type": "web",
+	"main": "index.html",
+	"title": "Project Clouds for SkyDrive",
+	"icon": "icon.png",
+	"uiRevision" : "2",
+        "plug-ins": true
+        
+}
