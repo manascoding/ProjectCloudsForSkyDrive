@@ -1,5 +1,4 @@
-
-Project Clouds for SkyDrive, formerly known as TouchPad SkyDrive, is not open-sourced. 
+Project Clouds for SkyDrive, formerly known as TouchPad SkyDrive, is now open-sourced. 
 
 The Enyo file sare under enyo.
 The C/C++ file is under plugin. 
@@ -19,14 +18,15 @@ The reviews were:
 FOUR five star reviews. 
 TWO four star reviews.
 THREE three star reviews. 
+
 Reviews from TouchPad SkyDrive in order by date: (Newest on top)
-Barry B – Version 1.0.2 (5 star):  “Great application for accessing SkyDrive, built in picture viewer is a nice addition but can be slow browsing pictures. Paid for a dropbox and this is a lot nicer to use.”
-Randy A – Version 1.0.2 (5 star): “Excellent! Finally I can access my online docs. Thanks for developing this app for the webOS!”
-Shawn M – Version 1.0.2 (4 star): “Great WebOS solution for access to your SkyDrive. Thanks to the developer for putting this together!”
-Mike F – Version 1.0.2 (4 star): “Thank you for updating the app to support photo viewing. Since I had to switch platforms when my beloved Pre+ broke, this makes life easier”
-Stephane B – Version 1.0.1 (3 star): Rating Only
-Gary W – Version 1.0.1 (3 star): “Connects to skydrive fine but does not allow me to view my photos on their which was what I wanted it for. It only provides list view and selecting photos provides option to download to touch pad only not view and then scroll through photos.Is more polished and appears to have more features compared to Hi SkyDrive at the momentThis version reviewed is v1.0.1”
-Xavier M – Version 1.0.1 (3 star): “Just downloaded this app and I don't like it every much, unless I am not using it correctly. You cannot actually view the photos in your skydive account. To view them, you must download them to your touchpad. Also, you cannot download multiple files to your account all at once; only one at a time. With as many photos I have, this is very inconvenient. Some changes need to be made to this app.”
-Ivan K – Version 1.0.1 (5 star): “Great app, exactly what i needed as i'm using skydrive heavily.”
-Jannette C – Version 1.0.1 (5 star): “So far does what it says and does it well. I will try doing more advanced features tomorrow, but no problems so far.”
+Barry B ï¿½ Version 1.0.2 (5 star):  ï¿½Great application for accessing SkyDrive, built in picture viewer is a nice addition but can be slow browsing pictures. Paid for a dropbox and this is a lot nicer to use.ï¿½
+Randy A ï¿½ Version 1.0.2 (5 star): ï¿½Excellent! Finally I can access my online docs. Thanks for developing this app for the webOS!ï¿½
+Shawn M ï¿½ Version 1.0.2 (4 star): ï¿½Great WebOS solution for access to your SkyDrive. Thanks to the developer for putting this together!ï¿½
+Mike F ï¿½ Version 1.0.2 (4 star): ï¿½Thank you for updating the app to support photo viewing. Since I had to switch platforms when my beloved Pre+ broke, this makes life easierï¿½
+Stephane B ï¿½ Version 1.0.1 (3 star): Rating Only
+Gary W ï¿½ Version 1.0.1 (3 star): ï¿½Connects to skydrive fine but does not allow me to view my photos on their which was what I wanted it for. It only provides list view and selecting photos provides option to download to touch pad only not view and then scroll through photos.Is more polished and appears to have more features compared to Hi SkyDrive at the momentThis version reviewed is v1.0.1ï¿½
+Xavier M ï¿½ Version 1.0.1 (3 star): ï¿½Just downloaded this app and I don't like it every much, unless I am not using it correctly. You cannot actually view the photos in your skydive account. To view them, you must download them to your touchpad. Also, you cannot download multiple files to your account all at once; only one at a time. With as many photos I have, this is very inconvenient. Some changes need to be made to this app.ï¿½
+Ivan K ï¿½ Version 1.0.1 (5 star): ï¿½Great app, exactly what i needed as i'm using skydrive heavily.ï¿½
+Jannette C ï¿½ Version 1.0.1 (5 star): ï¿½So far does what it says and does it well. I will try doing more advanced features tomorrow, but no problems so far.ï¿½
 
